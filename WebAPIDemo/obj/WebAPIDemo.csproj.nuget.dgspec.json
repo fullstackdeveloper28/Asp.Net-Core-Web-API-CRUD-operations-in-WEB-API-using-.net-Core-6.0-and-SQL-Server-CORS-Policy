@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Core\\VS2022\\WebAPIDemo\\WebAPIDemo.csproj": {}
+    "D:\\Core\\WebAppAPI\\WebAPIDemo\\WebAPIDemo.csproj": {}
   },
   "projects": {
-    "D:\\Core\\VS2022\\WebAPIDemo\\WebAPIDemo.csproj": {
+    "D:\\Core\\WebAppAPI\\WebAPIDemo\\WebAPIDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Core\\VS2022\\WebAPIDemo\\WebAPIDemo.csproj",
+        "projectUniqueName": "D:\\Core\\WebAppAPI\\WebAPIDemo\\WebAPIDemo.csproj",
         "projectName": "WebAPIDemo",
-        "projectPath": "D:\\Core\\VS2022\\WebAPIDemo\\WebAPIDemo.csproj",
+        "projectPath": "D:\\Core\\WebAppAPI\\WebAPIDemo\\WebAPIDemo.csproj",
         "packagesPath": "C:\\Users\\AASHI\\.nuget\\packages\\",
-        "outputPath": "D:\\Core\\VS2022\\WebAPIDemo\\obj\\",
+        "outputPath": "D:\\Core\\WebAppAPI\\WebAPIDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AASHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
